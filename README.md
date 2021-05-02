@@ -13,5 +13,13 @@ Here I post random snippets of JS code.
 <br>
 A future project thats going to the moon 🚀
 
+###### --------------------------------------------------------------------------
+
+### Calculator 
+<b> https://github.com/DevEagleIsTaken/calculator <b>
+<br>
+A simple calculator I made in Python.
+
+
 
 
